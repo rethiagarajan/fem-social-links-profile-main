@@ -18,4 +18,5 @@
 # Avoid folder created for ai pair programmer
 #############################################
 /gemini
+/temp
 #############################################
